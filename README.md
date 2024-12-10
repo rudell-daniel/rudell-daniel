@@ -6,7 +6,6 @@
   - How many times does 02:58:50 appear in this log file?
   - Find the hash for r2d2 in the capture file and then crack the password.
 
-
 <h2>Certifications</h2>
 
 - [CompTIA Security +](https://www.credly.com/earner/earned/badge/b920aa90-b994-4163-86a7-367a024a24fd)
