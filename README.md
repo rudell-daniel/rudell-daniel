@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Capture the Flag Project</b>
-  - How many times does 02:58:50 appear in this log file?
-  - Find the hash for r2d2 in the capture file and then crack the password.
+  - Log Analysis
+  - Password Hashing
 
 <h2>Certifications</h2>
 
