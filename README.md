@@ -5,6 +5,7 @@
 - <b>Capture the Flag Project</b>
   - Log Analysis
   - Password Hashing
+  - Network Capture Analysis
 
 <h2>Certifications</h2>
 
