@@ -5,8 +5,9 @@
 - <b>Capture the Flag Project</b>
   - Log Analysis
   - Password Hashing
-  - Network Capture Analysis
+  - Network Capture Wireless
   - OKTA Identity Access Management
+  - SOC-Automation-Project-Draw.IO
 
 <h2>Certifications</h2>
 
