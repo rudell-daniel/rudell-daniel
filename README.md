@@ -6,6 +6,7 @@
   - Log Analysis
   - Password Hashing
   - Network Capture Analysis
+  - OKTA Identity Access Management
 
 <h2>Certifications</h2>
 
