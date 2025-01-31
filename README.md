@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Capture the Flag Project</b>
+- <b>Listing</b>
   - Log Analysis
   - Password Hashing
   - Network Capture Wireless
