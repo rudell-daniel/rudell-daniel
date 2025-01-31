@@ -8,6 +8,7 @@
   - Network Capture Wireless
   - OKTA Identity Access Management
   - SOC-Automation-Project-Draw.IO
+  - Linux File Listing
 
 <h2>Certifications</h2>
 
