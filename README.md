@@ -46,24 +46,23 @@ a reusable Tenable scan template and DISA Windows 11 STIG compliance audit.
 - Reviewed vulnerability, configuration, and remediation information
 - Evaluated Windows security configuration against a defined STIG baseline
 
-[View Project →](PASTE-YOUR-STIG-REPOSITORY-LINK-HERE)
+[View Project →](https://github.com/rudell-daniel/Windows-11-STIG-Security-Vulnerability-Assessment.git)
 
 ---
 
 ## 🛡️ Security Operations & Analysis
 
-- [Log Analysis](PASTE-LINK-HERE)
-- [Network Traffic Analysis](PASTE-LINK-HERE)
-- [SOC Automation Architecture](PASTE-LINK-HERE)
+- [Log Analysis](https://github.com/rudell-daniel/Log-Analysis-Project.git)
+- [Network Traffic Analysis](https://github.com/rudell-daniel/Network-Capture-Wireless.git)
 
 ## 🔑 Identity & Access Management
 
-- [Okta Identity & Access Management](PASTE-LINK-HERE)
+- [Okta Identity & Access Management]([PASTE-LINK-HERE](https://github.com/rudell-daniel/OKTA-Identity-Access-Management-IAM-.git))
 
 ## 🐧 Linux & Security Fundamentals
 
-- [Password Hashing](PASTE-LINK-HERE)
-- [Linux File & Permission Analysis](PASTE-LINK-HERE)
+- [Password Hashing](https://github.com/rudell-daniel/Password-Hashing.git)
+- [Linux File & Permission Analysis](https://github.com/rudell-daniel/Linux-File-Listing-Project.git)
 
 - ---
 
