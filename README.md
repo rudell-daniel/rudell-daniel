@@ -48,6 +48,15 @@ a reusable Tenable scan template and DISA Windows 11 STIG compliance audit.
 
 [View Project →](https://github.com/rudell-daniel/Windows-11-STIG-Security-Vulnerability-Assessment.git)
 
+### Authenticated vs. Unauthenticated Linux Vulnerability Assessment
+
+**Tenable Vulnerability Management | Ubuntu Linux | Microsoft Azure | Credentialed Scanning**
+
+Compared unauthenticated, standard-user authenticated, and root-authenticated
+Linux vulnerability assessments to evaluate credential validation, privilege
+levels, and host-level assessment visibility.
+
+[View Project →](https://github.com/rudell-daniel/tenable-authenticated-vs-unauthenticated-Linux)
 ---
 
 ## 🛡️ Security Operations & Analysis
