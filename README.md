@@ -29,7 +29,7 @@ privilege levels, host-level visibility, and assessment coverage.
 - Validated credential status before interpreting assessment results
 - Evaluated how Linux privilege levels affected assessment depth
 
-[View Project →](https://github.com/rudell-daniel/tenable-authenticated-vs-unauthenticated)
+[View Project →](https://github.com/rudell-daniel/tenable-authenticated-vs-unauthenticated-assessment.git)
 
 ### Windows 11 STIG Security Assessment
 
