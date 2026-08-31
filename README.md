@@ -57,7 +57,7 @@ a reusable Tenable scan template and DISA Windows 11 STIG compliance audit.
 
 ## 🔑 Identity & Access Management
 
-- [Okta Identity & Access Management]([PASTE-LINK-HERE](https://github.com/rudell-daniel/OKTA-Identity-Access-Management-IAM-.git))
+- [Okta Identity & Access Management](https://github.com/rudell-daniel/OKTA-Identity-Access-Management-IAM-.git))
 
 ## 🐧 Linux & Security Fundamentals
 
@@ -109,3 +109,4 @@ technical findings into actionable security information.
 
 
 [linkedin]: https://www.linkedin.com/in/rudell-daniel-463bb0262/
+[Credly]: https://www.credly.com/users/rudell-daniel/edit/badges/credly
