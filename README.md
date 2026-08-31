@@ -1,14 +1,15 @@
-<h1>Hi, I'm Rudell! </h1>
+# Rudell Daniel
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+### Vulnerability Management | Security Operations | Enterprise Systems
 
-- <b>Listing</b>
-  - Log Analysis
-  - Password Hashing
-  - Network Capture Wireless
-  - OKTA Identity Access Management
-  - SOC-Automation-Project-Draw.IO
-  - Linux File Listing
+Cybersecurity professional with an enterprise IT background and hands-on
+experience in vulnerability assessment, security analytics, identity and
+access technologies, and cloud security.
+
+My portfolio focuses on practical security projects using Tenable
+Vulnerability Management, Microsoft Azure, Windows/Linux systems,
+Microsoft Sentinel, KQL, and identity technologies.
+
 
 <h2>Certifications</h2>
 
@@ -24,20 +25,5 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[Hostinger]: https://rudelldaniel.com/
+
 [linkedin]: https://www.linkedin.com/in/rudell-daniel-463bb0262/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
